@@ -1,1 +1,1 @@
-# whack-a-mole-game-
+#It is fun game made using HTML, CSS, and Javascript. This game consists of nine dirt holes and a mole. The mole pops up from the holes randomly and player has to click on the mole to get points. The points are displayed at the top of the page.
